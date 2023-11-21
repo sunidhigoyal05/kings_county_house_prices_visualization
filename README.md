@@ -13,3 +13,5 @@ The data used in this project is sourced from Kaggle, and you will find it uploa
 ## Open the Tableau workbook: Kings_County_House_Prices.twbx.
 Navigate through the different dashboards to view specific analyses.
 Interact with filters and tooltips to customize your exploration
+
+<img width="1201" alt="Screenshot 2023-11-21 at 4 48 48 PM" src="https://github.com/sunidhigoyal05/kings_county_house_prices_visualization/assets/105047166/6d4b2877-3b0a-4ba8-9aba-debbba4d6aa1">
