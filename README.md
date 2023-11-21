@@ -16,4 +16,6 @@ Interact with filters and tooltips to customize your exploration
 
 Here is a png image of the dashboard. You may download the .twbx notebook and explore the interactive features. 
 
+https://public.tableau.com/app/profile/sunidhi.goyal/viz/kings_county_house_data/KING_COUNTY_HOUSE_SALES?publish=yes
+
 <img width="1201" alt="Screenshot 2023-11-21 at 4 48 48 PM" src="https://github.com/sunidhigoyal05/kings_county_house_prices_visualization/assets/105047166/6d4b2877-3b0a-4ba8-9aba-debbba4d6aa1">
