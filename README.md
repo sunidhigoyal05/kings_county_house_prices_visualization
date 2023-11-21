@@ -1,4 +1,4 @@
-# kings_county_house_prices_visualization
+# Kings County House Prices Visualization
 
 # Tableau House Prices Visualization Project
 ## Overview
